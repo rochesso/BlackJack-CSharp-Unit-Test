@@ -1,0 +1,15 @@
+C:\Users\arthu\Documents\Programmer\CSharp\BlackJack2\BlackJack\bin\Debug\net7.0\BlackJack.exe
+C:\Users\arthu\Documents\Programmer\CSharp\BlackJack2\BlackJack\bin\Debug\net7.0\BlackJack.deps.json
+C:\Users\arthu\Documents\Programmer\CSharp\BlackJack2\BlackJack\bin\Debug\net7.0\BlackJack.runtimeconfig.json
+C:\Users\arthu\Documents\Programmer\CSharp\BlackJack2\BlackJack\bin\Debug\net7.0\BlackJack.dll
+C:\Users\arthu\Documents\Programmer\CSharp\BlackJack2\BlackJack\bin\Debug\net7.0\BlackJack.pdb
+C:\Users\arthu\Documents\Programmer\CSharp\BlackJack2\BlackJack\obj\Debug\net7.0\BlackJack.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\Programmer\CSharp\BlackJack2\BlackJack\obj\Debug\net7.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\Programmer\CSharp\BlackJack2\BlackJack\obj\Debug\net7.0\BlackJack.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\Programmer\CSharp\BlackJack2\BlackJack\obj\Debug\net7.0\BlackJack.AssemblyInfo.cs
+C:\Users\arthu\Documents\Programmer\CSharp\BlackJack2\BlackJack\obj\Debug\net7.0\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\Programmer\CSharp\BlackJack2\BlackJack\obj\Debug\net7.0\BlackJack.dll
+C:\Users\arthu\Documents\Programmer\CSharp\BlackJack2\BlackJack\obj\Debug\net7.0\refint\BlackJack.dll
+C:\Users\arthu\Documents\Programmer\CSharp\BlackJack2\BlackJack\obj\Debug\net7.0\BlackJack.pdb
+C:\Users\arthu\Documents\Programmer\CSharp\BlackJack2\BlackJack\obj\Debug\net7.0\BlackJack.genruntimeconfig.cache
+C:\Users\arthu\Documents\Programmer\CSharp\BlackJack2\BlackJack\obj\Debug\net7.0\ref\BlackJack.dll
